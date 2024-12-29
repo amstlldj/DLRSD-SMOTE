@@ -8,3 +8,8 @@ Below are the results of the model synthesizing samples under extremely unbalanc
 ![Example Image](README/README-5.bmp)
 Meanwhile, the following is an explanation for the long distance dependence of sample synthesis in space-time and the similarity of overall and local features of space-time slices.
 ![Example Image](README/README-7.bmp)
+Experimental hardware setup and software setup:
+Software Environment PyTorch 2.3.0, Python 3.12 (Ubuntu 22.04), Cuda 12.1
+CPU 12 vCPU Intel(R) Xeon(R) Silver 4214R CPU @ 2.40GHz
+GPU RTX 3080 Ti (12GB)
+Memory 90GB
