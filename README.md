@@ -6,7 +6,7 @@ biases fault diagnosis models towards the normal class,
 reducing accuracy and reliability. Existing synthetic data
 methods help mitigate this but often neglect spatiotemporal long-distance dependencies and local feature similarities, limiting their effectiveness. To address these limitations, we propose Deep Squeeze-enhanced Axial Transformer Synthetic Minority Oversampling Technique (DSEA-SMOTE). This method integrates a specially designed
 continuous wavelet transform data filtering preprocessing
-technology module that converts one-dimensional time-domain data into a two-dimensional feature map, enhancing model performance while simplifying feature learning.
+technology module that converts one-dimensional time-domain data into a two-dimensional feature map, enhancing model performance while simplifying feature learning.
 It then captures spatiotemporal long-distance dependencies and feature similarities in space-time slices through
 the novel Squeeze-enhanced Axial Attention mechanism
 and Auxiliary Feature Classifier. A Multi-category Sample
