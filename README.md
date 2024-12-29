@@ -1,20 +1,20 @@
 # DSEA-SMOTE
 
 ## Code background
-In industrial production, the imbalance between sparse failure signals and abundant normal signals
+In industrial production, the imbalance between sparse failure signals and abundant normal signals
 biases fault diagnosis models towards the normal class,
 reducing accuracy and reliability. Existing synthetic data
-methods help mitigate this but often neglect spatiotemporal long-distance dependencies and local feature similarities, limiting their effectiveness. To address these limitations, we propose Deep Squeeze-enhanced Axial Transformer Synthetic Minority Oversampling Technique (DSEASMOTE). This method integrates a specially designed
+methods help mitigate this but often neglect spatiotemporal long-distance dependencies and local feature similarities, limiting their effectiveness. To address these limitations, we propose Deep Squeeze-enhanced Axial Transformer Synthetic Minority Oversampling Technique (DSEA-SMOTE). This method integrates a specially designed
 continuous wavelet transform data filtering preprocessing
-technology module that converts one-dimensional timedomain data into a two-dimensional feature map, enhancing model performance while simplifying feature learning.
-It then captures spatiotemporal long-distance dependencies and feature similarities in space-time slices through
+technology module that converts one-dimensional time-domain data into a two-dimensional feature map, enhancing model performance while simplifying feature learning.
+It then captures spatiotemporal long-distance dependencies and feature similarities in space-time slices through
 the novel Squeeze-enhanced Axial Attention mechanism
 and Auxiliary Feature Classifier. A Multi-category Sample
 Feature Filtering Technology module is also introduced to
 further improve synthesis quality. Additionally, we refine
 the loss function based on the Auxiliary Feature Classifier
 to enhance generation quality. Experimental evaluations
-on two real-world datasets show that DSEA-SMOTE outperforms recent techniques. Ablation experiments further
+on two real-world datasets show that DSEA-SMOTE outperforms recent techniques. Ablation experiments further
 verify the effectiveness of each component in our design.Future work will extend DSEA-SMOTE to medical image
 synthesis for rare diseases, remote sensing image synthesis for
 extreme natural disasters, radar signal synthesis for aviation
