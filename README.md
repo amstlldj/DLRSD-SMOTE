@@ -13,3 +13,5 @@ Software Environment PyTorch 2.3.0, Python 3.12 (Ubuntu 22.04), Cuda 12.1
 CPU 12 vCPU Intel(R) Xeon(R) Silver 4214R CPU @ 2.40GHz
 GPU RTX 3080 Ti (12GB)
 Memory 90GB
+
+This paper uses the CWRU and SEU public datasets. If you use the code in this paper, please cite our paper and light up the star for our project. If you use it for commercial purposes, please contact the author of the paper.
