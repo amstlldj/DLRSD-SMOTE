@@ -38,3 +38,6 @@ Memory 90GB
 
 ## Usage Statement
 This paper uses the CWRU and SEU public datasets. If you use the code in this paper, please cite our paper and light up the star for our project. If you use it for commercial purposes, please contact the author of the paper.
+
+## Subsequent maintenance plan
+There is still room for improvement in the readability of the project code. We plan to refactor the code of the entire project and upload the weight file in the future.(2025-3-26)
