@@ -41,6 +41,7 @@ This paper uses the CWRU and SEU public datasets. If you use the code in this pa
 
 ## Citation format
 The citation format of the paper repository is：
+
 @software{lin_dongjie_2025_15148882,
   author       = {Hongliang Dai, Dongjie Lin, Junpu He, Xinyu Fang, Siting Huang},
   title        = {amstlldj/DSEA-SMOTE: v1.0.0},
