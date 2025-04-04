@@ -39,6 +39,25 @@ Memory 90GB
 ## Usage Statement
 This paper uses the CWRU and SEU public datasets. If you use the code in this paper, please cite our paper and light up the star for our project. If you use it for commercial purposes, please contact the author of the paper.
 
+## Citation format
+The citation format of the paper repository is：
+@software{,
+  author       = {Hongliang Dai, Dongjie Lin, Junpu He, Xinyu Fang, Siting Huang},
+  title        = {amstlldj/DSEA-SMOTE: v1.0.0},
+  month        = apr,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.15148882},
+  url          = {https://doi.org/10.5281/zenodo.15148882},
+  swhid        = {swh:1:dir:0bb059f1238a40321849a1b562115347aed38a88
+                   ;origin=https://doi.org/10.5281/zenodo.15148881;vi
+                   sit=swh:1:snp:61d7b3083fcc7fd599982eb07fd885fa0a42
+                   a551;anchor=swh:1:rel:66dc4daa4cd603c2933ddcae1fc0
+                   b9e43c864b6b;path=amstlldj-DSEA-SMOTE-5a1079d
+                  },
+}
+
 ## Subsequent maintenance plan
 There is still room for improvement in the readability of the project code. We plan to refactor the code of the entire project and upload the weight file in the future.(2025-3-26)
 If you want to see our latest work, you can take a look at our SCQ-CFGRF model project, which is more mature and has uploaded the model's weight file, which can be run directly for testing.(https://github.com/amstlldj/SCQ-CFGRF)
