@@ -41,7 +41,7 @@ This paper uses the CWRU and SEU public datasets. If you use the code in this pa
 
 ## Citation format
 The citation format of the paper repository is：
-@software{,
+@software{lin_dongjie_2025_15148882,
   author       = {Hongliang Dai, Dongjie Lin, Junpu He, Xinyu Fang, Siting Huang},
   title        = {amstlldj/DSEA-SMOTE: v1.0.0},
   month        = apr,
@@ -60,7 +60,7 @@ The citation format of the paper repository is：
 
 or
 
-@misc{DSEA-SMOTE, author = {Hongliang Dai, Dongjie Lin, Junpu He, Xinyu Fang, Siting Huang}, title = {DSEA-SMOTE}, year = {2024}, publisher = {Zenodo}, doi = {10.5281/zenodo.15148882}, url = {https://github.com/amstlldj/DSEA-SMOTE}
+@misc{DSEA-SMOTE, author = {Hongliang Dai, Dongjie Lin, Junpu He, Xinyu Fang, Siting Huang}, title = {DSEA-SMOTE}, year = {2024}, publisher = {Zenodo}, doi = {10.5281/zenodo.15148882}, url = {https://github.com/amstlldj/DSEA-SMOTE}}
 
 ## Subsequent maintenance plan
 There is still room for improvement in the readability of the project code. We plan to refactor the code of the entire project and upload the weight file in the future.(2025-3-26)
