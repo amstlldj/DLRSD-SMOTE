@@ -58,6 +58,10 @@ The citation format of the paper repository is：
                   },
 }
 
+or
+
+@misc{DSEA-SMOTE, author = {Hongliang Dai, Dongjie Lin, Junpu He, Xinyu Fang, Siting Huang}, title = {DSEA-SMOTE}, year = {2024}, publisher = {Zenodo}, doi = {10.5281/zenodo.15148882}, url = {https://github.com/amstlldj/DSEA-SMOTE}
+
 ## Subsequent maintenance plan
 There is still room for improvement in the readability of the project code. We plan to refactor the code of the entire project and upload the weight file in the future.(2025-3-26)
 If you want to see our latest work, you can take a look at our SCQ-CFGRF model project, which is more mature and has uploaded the model's weight file, which can be run directly for testing.(https://github.com/amstlldj/SCQ-CFGRF)
