@@ -2,13 +2,13 @@
 
 ## Code background
 Bearing fault diagnosis is critical for preventing industrial downtime, but real-world datasets suffer
-from extreme class imbalance, which biases deep models toward the majority class. Existing oversampling techniques neglect long-range spatiotemporal dependencies, leading to low-fidelity minority
+from extreme class imbalance, which biases deep models toward the majority class. Existing over sampling techniques neglect long-range spatiotemporal dependencies, leading to low-fidelity minority
 samples and poor generalization. To solve the problem, we propose Deep Long-Range Spatiotemporal
 Dependency Synthetic Minority Oversampling Technique (DLRSD-SMOTE). The proposed method
 begins with a novel Signal Feature Transform block, which employs Continuous Wavelet Transform
 and convolutional layers to convert 1D time-domain signals into 2D time–frequency feature heatmaps,
 enhancing model expressiveness and feature learning. Next, the proposed Seaformer Auto-Encoding
-and Decoding blocks extract high-dimensional features and model long-range spatiotemporal dependencies. A well-designed Auxiliary Feature Classifier block is then used to generate class-specific
+and Decoding blocks extract high-dimensional features and model long-range spatiotemporal dependencies. A well-designed Auxiliary Feature Classifier block is then used to generate class-specific
 synthetic samples. To ensure stable convergence of the proposed DLRSD-SMOTE network and
 enable the generation of high-quality samples, a customized optimization loss function is constructed.
 This function is designed based on both the sample reconstruction error and the classification
