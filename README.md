@@ -20,7 +20,7 @@ validate the contributions of each module. Notably, under a 1:5 balance ratio, D
 achieves an accuracy of 99.02%. Code is available at: https://github.com/amstlldj/DLRSD-SMOTE.
 
 ## Code repository introduction
-This code repository is the source code of the paper "Deep Long-Range Spatiotemporal Dependency Synthetic Minority Oversampling Technique For Imbalance-bearing Fault Diagnosis". It mainly provides the framework code and related processing code of the novel data synthesis model framework DSEA-SMOTE. It also provides related data files.Below is a schematic diagram of the model framework of the entire paper.
+This code repository is the source code of the paper "Deep Long-Range Spatiotemporal Dependency Synthetic Minority Oversampling Technique For Imbalance-bearing Fault Diagnosis". It mainly provides the framework code and related processing code of the novel data synthesis model framework DLRSD-SMOTE. It also provides related data files.Below is a schematic diagram of the model framework of the entire paper.
 ![Example Image](README/DLRSD-SMOTE-framework.bmp)
 ![Example Image](README/DLRSD-SMOTE.bmp)
 ![Example Image](README/SFT.bmp)
@@ -49,7 +49,7 @@ The citation format of the paper repository is：
 
 @software{amstlldj_2025_15148882,
   author       = {Hongliang Dai, Dongjie Lin, Junpu He, Xinyu Fang, Siting Huang},
-  title        = {amstlldj/DSEA-SMOTE: v1.0.0},
+  title        = {amstlldj/DLRSD-SMOTE: v1.0.0},
   month        = apr,
   year         = 2025,
   publisher    = {Zenodo},
@@ -60,13 +60,13 @@ The citation format of the paper repository is：
                    ;origin=https://doi.org/10.5281/zenodo.15148881;vi
                    sit=swh:1:snp:61d7b3083fcc7fd599982eb07fd885fa0a42
                    a551;anchor=swh:1:rel:66dc4daa4cd603c2933ddcae1fc0
-                   b9e43c864b6b;path=amstlldj-DSEA-SMOTE-5a1079d
+                   b9e43c864b6b;path=amstlldj-DLRSD-SMOTE-5a1079d
                   },
 }
 
 or
 
-@misc{DSEA-SMOTE, author = {Hongliang Dai, Dongjie Lin, Junpu He, Xinyu Fang, Siting Huang}, title = {DSEA-SMOTE}, year = {2025}, publisher = {Zenodo}, doi = {10.5281/zenodo.15148882}, url = {https://github.com/amstlldj/DSEA-SMOTE}}
+@misc{DLRSD-SMOTE, author = {Hongliang Dai, Dongjie Lin, Junpu He, Xinyu Fang, Siting Huang}, title = {DLRSD-SMOTE}, year = {2025}, publisher = {Zenodo}, doi = {10.5281/zenodo.15148882}, url = {https://github.com/amstlldj/DLRSD-SMOTE}}
 
 ## Subsequent maintenance plan
 There is still room for improvement in the readability of the project code. We plan to refactor the code of the entire project and upload the weight file in the future.(2025-3-26)
