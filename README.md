@@ -70,4 +70,4 @@ or
 
 ## Subsequent maintenance plan
 There is still room for improvement in the readability of the project code. We plan to refactor the code of the entire project and upload the weight file in the future.(2025-3-26)
-If you want to see our latest work, you can take a look at our SCQ-CFGRF model project, which is more mature and has uploaded the model's weight file, which can be run directly for testing.(https://github.com/amstlldj/SCQ-CFGRF)
+If you want to see our latest work, you can take a look at our SCIF-CFGRF model project, which is more mature and has uploaded the model's weight file, which can be run directly for testing.(https://github.com/amstlldj/SCIF-CFGRF)
