@@ -21,7 +21,13 @@ achieves an accuracy of 99.02%. Code is available at: https://github.com/amstlld
 
 ## Code repository introduction
 This code repository is the source code of the paper "Deep Long-Range Spatiotemporal Dependency Synthetic Minority Oversampling Technique For Imbalance-bearing Fault Diagnosis". It mainly provides the framework code and related processing code of the novel data synthesis model framework DSEA-SMOTE. It also provides related data files.Below is a schematic diagram of the model framework of the entire paper.
-![Example Image](README/README-1.jpg)
+![Example Image](README/DLRSD-SMOTE-framework.bmp)
+![Example Image](README/DLRSD-SMOTE.bmp)
+![Example Image](README/SFT.bmp)
+![Example Image](README/SEAAD.bmp)
+![Example Image](README/SEAAE.bmp)
+![Example Image](README/AFC.bmp)
+![Example Image](README/MCFSMOTE.bmp)
 Below are the results of the model synthesizing samples under extremely unbalanced conditions (BR 1:400) (from left to right: original sample, synthesized sample color map, synthesized sample grayscale map).
 ![Example Image](README/README-2.bmp)
 ![Example Image](README/README-3.bmp)
