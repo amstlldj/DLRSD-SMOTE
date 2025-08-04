@@ -1,4 +1,4 @@
-# DLRSD-SMOTE（Deep Long-Range Spatiotemporal Dependency Synthetic Minority Oversampling Technique For Imbalance-bearing Fault Diagnosis）
+# DLRSD-SMOTE V1.0（Deep Long-Range Spatiotemporal Dependency Synthetic Minority Oversampling Technique For Imbalance-bearing Fault Diagnosis）
 
 ## Code background
 Bearing fault diagnosis is critical for preventing industrial downtime, but real-world datasets suffer
